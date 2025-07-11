@@ -1,1 +1,1 @@
-# RISC-V-Single-cycle-core
+# RISC-V Single cycle core
